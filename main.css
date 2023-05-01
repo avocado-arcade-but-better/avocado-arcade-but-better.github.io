@@ -45,7 +45,7 @@ body {
     top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #443737;
+    color: #37ff00;
     font-size: 7vw;
     font-weight: 700;
     text-transform: uppercase;
@@ -54,7 +54,7 @@ body {
 }
 
 #loader h1 span {
-    color: #000000;
+    color: #443737;
 }
 
 #loader p {
