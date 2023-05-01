@@ -78,7 +78,7 @@ body {
     width: 6vw;
     height:6vw;
     border-radius: 50%;
-    border: 10px solid #443737;
+    border: 10px solid #37ff00;
     border-top-color: #37ff00;
     animation: loader 1s linear infinite;
     box-shadow: 0 0 10px #ffffff7a;
