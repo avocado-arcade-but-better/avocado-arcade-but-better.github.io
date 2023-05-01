@@ -121,7 +121,7 @@ body {
     top: 48%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #443737;
+    color: #37ff00;
     font-size: 15vw;
     font-weight: 700;
     text-transform: uppercase;
@@ -131,7 +131,7 @@ body {
 }
 
 .content h1 span {
-    color: #443737;
+    color: #37ff00;
     text-shadow: 0 0 10px #37ff00;
 }
 
@@ -140,7 +140,7 @@ body {
     top: 33%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #443737;
+    color: #37ff00;
     font-size:2vw;
     font-weight: 700;
     text-transform: uppercase;
@@ -154,7 +154,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 1.4vw 2.5vw;
-    color: #443737;
+    color: #37ff00;
     font-size: 2vw;
     font-weight: 700;
     text-transform: uppercase;
